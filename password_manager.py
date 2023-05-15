@@ -24,6 +24,7 @@ while True:
         add()
     elif password_prompt == "view":
         view()
+        
     else:
         print("Not a valid response.")
         quit()
